@@ -54,21 +54,21 @@
 }
 
 h1 {
-  height: 35px;
+  height: auto;
   background-color: #d1d5db;
   border: 1px solid #9ca3af;
   margin: 12px auto;
 }
 
 .h2 {
-  height: 20px;
+  height: auto;
   background-color: #d1d5db;
   border: 1px solid #9ca3af;
   margin: 12px auto;
 }
 
 .line {
-  height: 20px;
+  height: auto;
   background-color: #d1d5db;
   border: 1px solid #9ca3af;
   margin-bottom: 8px;
